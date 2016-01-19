@@ -1,0 +1,28 @@
+name: Hunter Creative
+favicon: null
+layout_spectrum: 0.9413446327671409
+typography_spectrum: 0.9692193998489529
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5959270761813968
+  lightness: 0.4569769052322954
+  saturation: 0.38290188228711486
+  rhythmicContrast: 0.6543531322386116
+purpose: []
